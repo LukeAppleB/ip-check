@@ -3,9 +3,11 @@ dev_mode=true
 last_ip=
 log_file=
 site_link=
+use_kill_switch=false
+kill_switch_exe=
 
 [Sender]
-email=only gmail will work
+email=only gmail will work - see 'google app password'
 pass=
 
 [TestRecipients]
